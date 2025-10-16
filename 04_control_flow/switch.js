@@ -22,7 +22,6 @@ switch (month) {
         console.log("April");
         break;
     default:
-        console.log("deafult case match");
-        
+        console.log("deafult case match");  
         break;
 }
